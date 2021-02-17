@@ -12,4 +12,5 @@ Main goals:
 Tools used:
 - Pandas 
 - Jupyter notebook
-
+- matplotlib
+- ipyleaflet ( for interactive graph )
